@@ -1,0 +1,4 @@
+## 第10周log
+本周学习了机器学习中的第7章贝叶斯分类器，重点看了贝叶斯网的结构部分。
+
+此外还看了一篇关于signed network mining应用于social media的survey，其中介绍了在social media方面，signed和unsigned network现有的一些算法，同时也介绍了这一领域接下来的可能研究方向，主要是如何将现有的unsigned network的算法转变应用到signed network中。

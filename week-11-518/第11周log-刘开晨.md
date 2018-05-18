@@ -1,0 +1,1 @@
+本周毕设论文写作。采用双层索引架构。第一层为keyword layer。基于ward算法的层次聚类，将各keyword分配到各hierarchical cluster。第二层为spatial layer，对keyword layer最底层每个cluster的关键词建立 linear quadtree。对分裂后的空间网格，按Morton code编码。每一层包含keyword bitmap和non spatial attribute的skyline point。

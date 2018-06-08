@@ -1,0 +1,11 @@
+第14周工作log
+============
+1.本周进行的DEXA最终的camera ready 版本的准备，
+DEXA reviewer 意见如下：
+1、为啥是recursive的，为啥R树一定好，为啥只有4个参数
+2、introduction太长，related work 太短
+3、实验应给分为enviornment, result , analysis的分析
+4、对比实验不好
+5、很多typo
+但是由于底层的实验难以改进，因此只对typo以及文字描述进行了细节的删改。
+2.另外进行姚斌老师的alphabull代码的实现，从开学到现在，基本将一个连接了前端操作，后端数据库以及机器学习预测stock的系统初步实现。

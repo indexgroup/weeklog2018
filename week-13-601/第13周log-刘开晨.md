@@ -1,0 +1,1 @@
+本周完成毕业设计写作工作，并完成实验部分。新加入基于CIQ-Tree的diverse spatial keyword query和batch spatial keyword query。在实验部分，我们选择三个现实生活中的数据进行验证。每个数据集拥有用户check-in信息、spatial object的经纬度，以及我们模拟的数值属性。实验结果表明我们的算法在索引建立和处理查询时间方面具有优越性。
